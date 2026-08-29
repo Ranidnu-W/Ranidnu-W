@@ -24,4 +24,4 @@ n8n · Ollama · Qdrant · Airtable · Next.js · Docker · Python · LangChain 
 
 ## Get in Touch
 
-- LinkedIn: www.linkedin.com/in/deyon-wijewardana-813003349
+- LinkedIn: www.linkedin.com/in/deyon-wijewardana
